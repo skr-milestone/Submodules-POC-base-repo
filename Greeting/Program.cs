@@ -7,7 +7,7 @@ namespace Submodule.Poc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine($"Hello {Constants.Name}!");
             Console.ReadKey();
         }
     }
