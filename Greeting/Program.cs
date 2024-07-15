@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Greeting
+namespace Submodule.Poc
 {
     internal class Program
     {

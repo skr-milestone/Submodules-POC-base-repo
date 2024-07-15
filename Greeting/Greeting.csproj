@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Submodules-POC-child-repo\Constants\Constants.csproj">
+      <Project>{d7abcfa3-b34c-46a9-bf29-3ba0c110ee7e}</Project>
+      <Name>Constants</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
