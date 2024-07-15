@@ -1,0 +1,3 @@
+[submodule "Submodules-POC-child-repo"]
+	path = Submodules-POC-child-repo
+	url = https://github.com/skr-milestone/Submodules-POC-child-repo.git
